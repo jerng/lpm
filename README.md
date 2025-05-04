@@ -6,7 +6,7 @@ My understanding of LP ([literate programming](https://en.wikipedia.org/wiki/Lit
 ###### Maybe Relevant
 - [nbdev](https://nbdev.fast.ai/) : a notebook-driven IDE, so-far mainly for Python development
 - [entangled](https://entangled.github.io/l) : literate programming in Markdown, running on a Python stack
-
+---
 ### Architecture : Initial Draft
 
 - **Feature 1.** "basically literate programming" : markdown with tagged code blocks (A) -> renders [ docs (B) + normalised static code (C) ] 
